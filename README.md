@@ -1,0 +1,1 @@
+# renpy coding best practices
